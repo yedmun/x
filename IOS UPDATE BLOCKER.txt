@@ -1,5 +1,11 @@
-ocsp.apple.com
-world-gen.g.aaplimg.com
-mesu.apple.com
-gdmf.apple.com
-ocsp.int-x3.letsencrypt.org
+! Title: IOS13 UPDATE BLOCKER
+! Version: Beta 0.01
+! Last modified: 19 Feb 2020 02:34 UTC 
+
+||ocsp.apple.com
+||world-gen.g.aaplimg.com
+||mesu.apple.com
+||gdmf.apple.com
+||ocsp.int-x3.letsencrypt.org
+
+
